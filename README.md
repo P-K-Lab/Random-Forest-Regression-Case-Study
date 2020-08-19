@@ -1,2 +1,2 @@
 # Random-Forest-Regression-Case-Study
-Practicing Random Forest Regression
+Random Forest Regression to predict compensation of students 
